@@ -62,7 +62,3 @@ Simply run the script to train both models on the California Housing dataset and
 ```python
 python california_housing_comparison.py
 ```
-
-## License
-
-[Add your chosen license here]
